@@ -4,5 +4,4 @@
 |---|---|---|
 | [Предсказание температуры сплава](https://github.com/Aleksei-Ianin/Data-Science-projects/tree/main/Alloy_Temperature_Prediction) | ... | pandas |
 |---|---|---|
-Анализ и прогнозирование поведения
 | [Анализ и прогнозирование поведения и увольнения сотрудников](https://github.com/Aleksei-Ianin/Data-Science-projects/tree/main/HR_project) | ... | pandas |
